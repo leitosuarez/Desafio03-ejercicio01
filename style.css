@@ -1,0 +1,73 @@
+body{
+    background-color: #25302f;
+}
+
+
+.titulo{
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: Impact, charcol, sans-serif;
+    color: #3a6677;
+    font-size: 80px;
+    height: 100px;
+}
+
+p{
+    color: whitesmoke;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+h2{
+    font-family:Impact, Charcoal, sans-serif ;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+img{
+    margin-left: 25px;
+    border: 4px solid
+}
+
+.imagen-1{
+    border-color:rgb(223, 197, 197);
+}
+
+.subtitulo-1{
+    color: rgb(223, 197, 197);
+
+}
+
+.subtitulo-2{
+    color: rgb(92, 156, 156);
+}
+
+.imagen-2{
+    border-color: rgb(92, 156, 156);
+}
+
+.subtitulo-3{
+    color: rgb(202, 192, 192);
+}
+
+.imagen-3{
+    border-color: rgb(202, 192, 192);
+    
+}
+
+.subtitulo-4{
+    color: gray;
+}
+
+.imagen-4{
+    border-color: gray;
+}
+
+.subtitulo-5{
+    color: rgb(131, 104, 104);
+}
+
+.imagen-5{
+    border-color: rgb(131, 104, 104);
+}
